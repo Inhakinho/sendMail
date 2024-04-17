@@ -1,0 +1,7 @@
+# Ignorar archivo de variables de entorno
+.env
+
+# Ignorar otros archivos y directorios comunes
+node_modules/
+dist/
+*.log
